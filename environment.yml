@@ -1,0 +1,19 @@
+name: STAT_bat
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - pandas
+  - jupyterlab
+  - numpy
+  - plotly
+  - matplotlib
+  - seaborn
+  - pyomo
+  - glpk
+  - pip
+  - pip:
+    - suntime
+    - simses
+prefix: C:\Users\hessehoh\Miniconda3\envs\STATBat

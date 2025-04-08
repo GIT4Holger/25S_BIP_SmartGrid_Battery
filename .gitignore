@@ -1,0 +1,30 @@
+# Editor
+.idea/
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# simses
+simses_results/
+
+# Solutions for assignments
+solution/
+
+# Student uploads
+Student_UPLOADS
+
+# Lecture not yet public
+lecture_to_come/
+
+# Lecture not yet public
+assignment_to_come/
+data/simses_pv_profile.xlsx
+data/simses_load_profile.xlsx
+data/SBAP_Frequency_2014.csv.gz
+data/SBAP_Household_Profile.csv.gz
+
+#unwanted packages
+upgrade/
+Lib/
+Scripts/
