@@ -1,7 +1,7 @@
 # STAT-Bat Notebooks
 
 
-This repository contains a collection of Jupyter notebooks as a supporting material to the lecture *STAT-Bat* at Hochschule Kempten  . It is depreciated from a former version beeing set up at TUM at the Chair for electric storage technology and was created by Martin Cornejo
+This repository contains a collection of Jupyter notebooks supporting the BIP 2025 Smart Grid lecture series and its contribution by Prof. Dr. Holger Hesse at University of applied sciences Kempten. It is depreciated from a former version beeing set up at Technical University of Munich at the Chair for electric storage technology and was created by Martin Cornejo
 
 
 ## Setup
