@@ -6,10 +6,10 @@ This repository contains a collection of Jupyter notebooks supporting the BIP 20
 
 ## Setup
 REMOTE Option:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/HesseHSKempten%2F23s_statbat/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GIT4Holger/25S_BIP_SmartGrid_Battery/main)
 
 
-### Set up the conda environment
+### additional info --- just fro geeks: Local installation w. conda
 LOCAL Option:
 Install VS-code: https://code.visualstudio.com/
 (OPTIONAL: Install python on VS code: https://code.visualstudio.com/docs/python/python-tutorial)
